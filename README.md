@@ -6,7 +6,7 @@ Sample code for the Japanese book Azure Container Application Development, publi
 
 ## Book reference
 
-The original Japanese title is 『Azureコンテナアプリケーション開発』, by Toru Makabe, Yusuke Higashikata, Chifuyu Yonekura, Hidenori Yatsu, and Shiho Asa; Gijutsu-Hyoron, 2023, ISBN 978-4-297-13269-9.
+The original Japanese title is 『Azureコンテナアプリケーション開発』, by 真壁徹、東方雄亮、米倉千冬、谷津秀典、阿佐志保; Gijutsu-Hyoron, 2023, ISBN 978-4-297-13269-9.
 
 [Publisher page](https://gihyo.jp/book/2023/978-4-297-13269-9). Use the publisher's contact form for questions about the book.
 
